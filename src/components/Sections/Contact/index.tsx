@@ -44,7 +44,7 @@ const Contact: FC = memo(() => {
             <p className="prose italic leading-6 text-neutral-300">
               I will be happy to discuss ideas with you and how we can work together.
             </p>
-            <a href="mailto:fran76062@gmail.com">
+            <a href="mailto:joem10067@gmail.com">
               <button
                 aria-label="Submit contact form"
                 className="w-max rounded-full border-2 border-orange-600 bg-stone-900 px-4 py-2 text-sm font-medium text-white shadow-md outline-none hover:bg-stone-800 focus:ring-2 focus:ring-orange-600 focus:ring-offset-2 focus:ring-offset-stone-800"

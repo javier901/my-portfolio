@@ -73,7 +73,7 @@ export type SectionId = typeof SectionId[keyof typeof SectionId];
  */
 export const heroData: Hero = {
   imageSrc: heroImage,
-  name: `I'm Richard Frank.`,
+  name: `I'm Joe Mendez.`,
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
@@ -170,7 +170,7 @@ export const skills: SkillGroup[] = [
       },
       {
         name: 'Django',
-        level: 9,
+        level: 10,
       },
       {
         name: 'Laravel',
@@ -305,7 +305,7 @@ export const experience: TimelineItem[] = [
         <ul className="list-disc">
           <li>Created a continuous deployment workflow using Docker, Heroku, and Nginx.</li>
           <li>
-            Converted the starting Node/React project into a production-ready solution using Docker, Heroku, and AWS.
+            Converted the starting Node/Reactand Django project into a production-ready solution using Docker, Heroku, and AWS.
           </li>
           <li>Developed with serverless Node.js and JavaScript.</li>
           <li>Used Elastic search to support indexing and search for various documents.</li>
