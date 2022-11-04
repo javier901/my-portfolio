@@ -39,7 +39,7 @@ const Contact: FC = memo(() => {
           <div className="order-1 col-span-1 flex flex-col gap-y-4 md:order-2">
             <p className="bold prose italic leading-6 text-neutral-300">
               If you have a project idea in mind, please get in touch to
-              <strong className="text-2xl text-stone-100"> fran76062@gmail.com</strong>
+              <strong className="text-2xl text-stone-100"> joem10067@gmail.com</strong>
             </p>
             <p className="prose italic leading-6 text-neutral-300">
               I will be happy to discuss ideas with you and how we can work together.

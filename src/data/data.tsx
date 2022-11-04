@@ -362,7 +362,7 @@ export const testimonial: TestimonialSection = {
     },
     {
       name: 'Linda Allbright',
-      text: 'I chose Richard because we received great customer service from the first inquiry, he is very professional, the work agreement is reassuring, and the testimonials on the website were good. Overall, a very professional experience, great process, and really friendly and committed  developer.',
+      text: 'I chose Joe because we received great customer service from the first inquiry, he is very professional, the work agreement is reassuring, and the testimonials on the website were good. Overall, a very professional experience, great process, and really friendly and committed  developer.',
       image: testimonal2,
     },
     {
