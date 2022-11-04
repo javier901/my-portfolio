@@ -110,7 +110,7 @@ export const aboutData: About = {
   profileImageSrc: profilepic,
   description: ``,
   aboutItems: [
-    {label: 'Location', text: 'Los Angeles, CA', Icon: MapIcon},
+    {label: 'Location', text: 'Orlando, FL', Icon: MapIcon},
     {label: 'Age', text: '34', Icon: CalendarIcon},
     {label: 'Nationality', text: 'USA', Icon: FlagIcon},
     {label: 'Interests', text: 'Snowboarding, Photography, Camping', Icon: SparklesIcon},
@@ -305,7 +305,7 @@ export const experience: TimelineItem[] = [
         <ul className="list-disc">
           <li>Created a continuous deployment workflow using Docker, Heroku, and Nginx.</li>
           <li>
-            Converted the starting Node/Reactand Django project into a production-ready solution using Docker, Heroku, and AWS.
+            Converted the starting Node/React and Django project into a production-ready solution using Docker, Heroku, and AWS.
           </li>
           <li>Developed with serverless Node.js and JavaScript.</li>
           <li>Used Elastic search to support indexing and search for various documents.</li>
@@ -409,7 +409,7 @@ export const testimonial: TestimonialSection = {
  */
 export const socialLinks: Social[] = [
   {label: 'Github', Icon: GithubIcon, href: 'https://github.com/Apollo-111'},
-  {label: 'Location', Icon: LocationMarkerIcon, href: 'https://www.google.com/maps/place/Los+Angeles,+CA,+USA/'},
+  {label: 'Location', Icon: LocationMarkerIcon, href: 'https://www.google.com/maps/place/Orlando,+FL,+USA/'},
   // {label: 'Stack Overflow', Icon: StackOverflowIcon, href: 'https://stackoverflow.com/users/8553186/tim-baker'},
   // {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/timbakerx/'},
   // {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/tbakerx/'},
