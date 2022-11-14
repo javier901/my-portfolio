@@ -156,9 +156,14 @@ export const skills: SkillGroup[] = [
         level: 9,
       },
       {
+        name: 'Next',
+        level: 9,
+      },
+      {
         name: 'TailwindCss',
         level: 9,
       },
+      
     ],
   },
   {
@@ -174,6 +179,10 @@ export const skills: SkillGroup[] = [
       },
       {
         name: 'Laravel',
+        level: 10,
+      },
+      {
+        name: 'Ruby On Rails',
         level: 10,
       },
       {
