@@ -417,7 +417,7 @@ export const testimonial: TestimonialSection = {
  * Social items
  */
 export const socialLinks: Social[] = [
-  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/Apollo-111'},
+//   {label: 'Github', Icon: GithubIcon, href: 'https://github.com/Apollo-111'},
   {label: 'Location', Icon: LocationMarkerIcon, href: 'https://www.google.com/maps/place/Orlando,+FL,+USA/'},
   // {label: 'Stack Overflow', Icon: StackOverflowIcon, href: 'https://stackoverflow.com/users/8553186/tim-baker'},
   // {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/timbakerx/'},
