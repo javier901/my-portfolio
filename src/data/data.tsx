@@ -9,7 +9,7 @@ import {
   SparklesIcon,
 } from '@heroicons/react/outline';
 
-import GithubIcon from '../components/Icon/GithubIcon';
+// import GithubIcon from '../components/Icon/GithubIcon';
 // import InstagramIcon from '../components/Icon/InstagramIcon';
 // import LinkedInIcon from '../components/Icon/LinkedInIcon';
 // import StackOverflowIcon from '../components/Icon/StackOverflowIcon';
@@ -49,7 +49,7 @@ import {
  */
 export const homePageMeta: HomepageMeta = {
   title: 'My Portfolio',
-  description: "Welcome to my site",
+  description: 'Welcome to my site',
 };
 
 /**
@@ -163,7 +163,6 @@ export const skills: SkillGroup[] = [
         name: 'TailwindCss',
         level: 9,
       },
-      
     ],
   },
   {
@@ -314,7 +313,8 @@ export const experience: TimelineItem[] = [
         <ul className="list-disc">
           <li>Created a continuous deployment workflow using Docker, Heroku, and Nginx.</li>
           <li>
-            Converted the starting Node/React and Django project into a production-ready solution using Docker, Heroku, and AWS.
+            Converted the starting Node/React and Django project into a production-ready solution using Docker, Heroku,
+            and AWS.
           </li>
           <li>Developed with serverless Node.js and JavaScript.</li>
           <li>Used Elastic search to support indexing and search for various documents.</li>
